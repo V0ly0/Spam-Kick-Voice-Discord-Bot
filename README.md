@@ -51,6 +51,6 @@ This command will immediately stop any ongoing kicks and disable the bot until i
 
 ## Support
 
-If you encounter any issues or have questions about Bot Kick, feel free to join our support server: [[Bot Kick Support Server](https://discord.gg/hrxaZdBMbu)https://discord.gg/hrxaZdBMbu](#)
+If you encounter any issues or have questions about Bot Kick-30, feel free to join our support server: [Bot Kick-30 Support Server](https://discord.gg/hrxaZdBMbu)
 
 Happy moderation!
